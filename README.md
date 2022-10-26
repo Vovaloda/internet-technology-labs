@@ -33,7 +33,7 @@
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer
 1. [Отчет](https://github.com/Vovaloda/internet-technology-labs/blob/main/src/otchet.pdf)
-2. [Сценарий Cisco Packet Tracer]()
+2. [Сценарий Cisco Packet Tracer](https://github.com/Vovaloda/internet-technology-labs/blob/main/src/Lab3.pka)
 
 ## ✅ Экзаменационные билет № 4
 
