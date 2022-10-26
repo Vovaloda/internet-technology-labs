@@ -38,5 +38,5 @@
 ## ✅ Экзаменационные билет № 4
 
 Ответ на экзаменационный билет доступен по ссылке:
-[билет №17](https://github.com/stankin/inet-2022/wiki/exam04)
+[билет №4](https://github.com/stankin/inet-2022/wiki/exam04)
 
