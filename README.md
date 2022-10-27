@@ -35,7 +35,7 @@
 1. [Отчет](https://github.com/Vovaloda/internet-technology-labs/blob/main/src/otchet.pdf)
 2. [Сценарий Cisco Packet Tracer](https://github.com/Vovaloda/internet-technology-labs/blob/main/src/Lab3.pka)
 
-## ✅ Экзаменационные билет № 4
+## ✅ Экзаменационный билет № 4
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №4](https://github.com/stankin/inet-2022/wiki/exam04)
