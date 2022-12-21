@@ -41,4 +41,5 @@
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №4](https://github.com/stankin/inet-2022/wiki/exam04)
+
 Был дан ответ на второй вопрос в билете: [Разница ревизий](https://github.com/stankin/inet-2022/wiki/exam04/_compare/b18f1ba2d96e309afe7f6b4392bad7ed9916c87b...6d7d471b25dfe808696527c372717279e4d6264a)
