@@ -28,7 +28,7 @@
    + Распределённая система управления версиями Git.
    + Веб-сервис для хостинга IT-проектов и их совместной разработки GitHub.
    
-### Работа над проектом ведется в команде.
+### Работа над проектом ведется в команде
 1. Репозиторий проекта доступен по ссылке: [Question's assistant](https://github.com/Tsyreniao/IT_MulticoloredPictures)
 2. Веб-страница с описанием проекта доступна по ссылке: [landing page](https://tsyreniao.github.io/IT_MulticoloredPictures/)
    
